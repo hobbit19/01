@@ -1,0 +1,12 @@
+Origin: KingAuto IOS Repo
+Label: KingAuto IOS Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: KingAuto for IOS Model 9.2.1 - 10.2.1
+MD5Sum:
+ 4b939acf53657c26b4f936c6c9690a34 4575 Packages
+ 137d44484a57e5a2c5ca29bd76c76f73 1642 Packages.bz2
+ 1d2c30c31e75261aa79e6ae027c55048 1460 Packages.gz
